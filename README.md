@@ -33,9 +33,11 @@
 
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Unwritten-one&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unwritten-one&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Unwritten-one&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unwritten-one&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ## 🔗 Connect
